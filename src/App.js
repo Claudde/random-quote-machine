@@ -61,10 +61,10 @@ function App() {
           </p>
           <div id='button-box'>
             <div className='sns-btn' >
-              <a id="tweet-quote" href={ tweetQuoteLink } title="Tweet this quote!">
+              <a id="tweet-quote" href={ tweetQuoteLink } title="Tweet this quote!" target="_blank">
                 <FontAwesomeIcon icon={faSquareTwitter} size="xl" className='icons' style={{color: accentColor}}></FontAwesomeIcon>
               </a>
-              <a id="post-quote" href={ tumblrPostLink } >
+              <a id="post-quote" href={ tumblrPostLink } title="Post this on Tumblr!" target="_blank">
                 <FontAwesomeIcon icon={faSquareTumblr} size='xl' className='icons' style={{color: accentColor}}></FontAwesomeIcon>
               </a>
             </div>
