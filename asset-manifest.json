@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Claudde/random-quote-machine/static/css/main.90b045b2.css",
+    "main.js": "/Claudde/random-quote-machine/static/js/main.f7823cc6.js",
+    "static/js/787.6107707c.chunk.js": "/Claudde/random-quote-machine/static/js/787.6107707c.chunk.js",
+    "index.html": "/Claudde/random-quote-machine/index.html",
+    "main.90b045b2.css.map": "/Claudde/random-quote-machine/static/css/main.90b045b2.css.map",
+    "main.f7823cc6.js.map": "/Claudde/random-quote-machine/static/js/main.f7823cc6.js.map",
+    "787.6107707c.chunk.js.map": "/Claudde/random-quote-machine/static/js/787.6107707c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90b045b2.css",
+    "static/js/main.f7823cc6.js"
+  ]
+}
