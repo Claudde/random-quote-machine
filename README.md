@@ -3,3 +3,7 @@ https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-dev
 This project for FreeCodeCamp.com's Random Quote Machine.
 Created by: Dhanabelle Cruzado
 Date: 22/09/30
+
+
+DEMO: https://Claudde.github.io/random-quote-machine.
+
